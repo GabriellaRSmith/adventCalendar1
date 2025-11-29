@@ -1,3 +1,22 @@
+.cinzel-decorative-regular {
+  font-family: "Cinzel Decorative", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.cinzel-decorative-bold {
+  font-family: "Cinzel Decorative", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.cinzel-decorative-black {
+  font-family: "Cinzel Decorative", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+
 .App {
   text-align: center;
 }
@@ -24,15 +43,139 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.message{
+  font-size: 24pt;
+  background-color: #314033;
+  border-radius: 5%;
+  padding: 5%;
+  font-family: "Cinzel Decorative", serif;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+
+
+.baking-sheet {
+  font-family: "Cinzel Decorative", serif;
+  margin: 40px auto;
+  width: 80%;
+  background: #d3d3d3;
+  border-radius: 20px;
+  box-shadow: inset 0 0 20px rgba(0,0,0,0.4);
+  padding: 20px;
+
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 per row */
+  gap: 30px; /* space between cookies */
+  justify-items: center;
+}
+
+.cookie-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: transform 0.15s;
+}
+
+.cookie-btn img {
+  width: 200px;
+  height: 200px;
+}
+
+.cookie-btn:hover {
+  transform: scale(1.1);
+}
+
+
+.cookie-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cookie-title {
+  margin-top: 10px;
+  font-size: 1.1rem;
+  color: #333;
+  font-weight: 600;
+  
+}
+
+/* Modal styles */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.modal-content {
+  background: linear-gradient(135deg, #fff 0%, #f8f8f8 100%);
+  padding: 40px;
+  border-radius: 20px;
+  max-width: 500px;
+  width: 90%;
+  text-align: center;
+  position: relative;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+  animation: slideIn 0.3s ease;
+}
+
+@keyframes slideIn {
+  from { 
+    transform: translateY(-50px);
+    opacity: 0;
   }
-  to {
-    transform: rotate(360deg);
+  to { 
+    transform: translateY(0);
+    opacity: 1;
   }
+}
+
+.close-btn {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: none;
+  border: none;
+  font-size: 30px;
+  cursor: pointer;
+  color: #000000;
+  transition: color 0.2s;
+}
+
+.close-btn:hover {
+  color: #d32f2f;
+}
+
+.modal-content h2 {
+  color: #d32f2f;
+  font-family: "Cinzel Decorative", serif;
+  margin-bottom: 20px;
+  font-size: 28px;
+}
+
+.gift-image {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+  margin: 20px auto;
+  display: block;
+}
+
+.gift-message {
+  font-size: 20px;
+  color: #333;
+  margin-top: 20px;
+  line-height: 1.5;
 }

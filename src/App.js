@@ -26,6 +26,11 @@ import bakeCookies from './assets/bakeCookies.png'
 import hotChocolate from './assets/hotChocolate.png'
 import gift from './assets/gift.png'
 import lights from './assets/lights.png'
+import ornament from './assets/ornament.png'
+import music from './assets/music.png'
+import past from './assets/past.jpeg'
+import connections from './assets/connections.png'
+import letter from './assets/letter.png'
 
 const calendarData = [
   {
@@ -113,15 +118,15 @@ const calendarData = [
     title: "December 11th",
     image: cookie11,
     unlockDate: "2025-12-11",
-    giftMessage: "Happy December 11th! You get a big hug and kiss!",
-    giftImage: kissImg
+    giftMessage: "Happy December 11th! I want to make this Christmas special. Let's paint an ornament together!",
+    giftImage: ornament
   },
   {
     id: 12,
     title: "December 12th",
     image: cookie12,
     unlockDate: "2025-12-12",
-    giftMessage: "Happy December 12th! Here's a link to a fun Christmas Mini Game!",
+    giftMessage: "Happy December 12th! I give you a big hug and a kiss! I love you!",
     giftImage: kissImg
   },
   {
@@ -129,8 +134,8 @@ const calendarData = [
     title: "December 13th",
     image: cookie13,
     unlockDate: "2025-12-13",
-    giftMessage: "Happy December 13th! Time to get into the Christmas spirit, here's a playlist just for you!",
-    giftImage: kissImg
+    giftMessage: "Happy December 13th! Time to get into the Christmas spirit, here's a playlist just for you! https://open.spotify.com/playlist/1Z16XljxPicxc1hVUsIl23?si=b6128aa3f826469a&pt=ee0beaf9dba0df7cb03cfd33a4b21c85",
+    giftImage: music
   },
   {
     id: 14,
@@ -138,7 +143,7 @@ const calendarData = [
     image: cookie14,
     unlockDate: "2025-12-14",
     giftMessage: "Happy December 14th! I miss you so much, was looking back on memories and found this! I love you babe!",
-    giftImage: kissImg
+    giftImage: past
   },
   {
     id: 15,
@@ -146,15 +151,15 @@ const calendarData = [
     image: cookie15,
     unlockDate: "2025-12-15",
     giftMessage: "Happy December 15th! 10 days away, it's time to write our letters to Santa!",
-    giftImage: kissImg
+    giftImage: letter
   },
   {
     id: 16,
     title: "December 16th",
     image: cookie1,
     unlockDate: "2025-12-16",
-    giftMessage: "Happy December 16th! Here's a game just for you baby!",
-    giftImage: kissImg
+    giftMessage: "Happy December 16th! Here's a game just for you baby! https://connections.swellgarfo.com/game/-OgDSuRLs9fFEDK4lSE6",
+    giftImage: connections
   },
   {
     id: 17,

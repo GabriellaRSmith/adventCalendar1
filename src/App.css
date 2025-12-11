@@ -68,6 +68,17 @@
   justify-items: center;
 }
 
+@media (max-width: 900px) {
+  .baking-sheet {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 550px) {
+  .baking-sheet {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
 .cookie-btn {
   background: none;
   border: none;

@@ -31,6 +31,9 @@ import music from './assets/music.png'
 import past from './assets/past.jpeg'
 import connections from './assets/connections.png'
 import letter from './assets/letter.png'
+import quiz from './assets/quiz.jpg'
+import food from './assets/food.png'
+import non from './assets/non.png'
 
 const calendarData = [
   {
@@ -166,8 +169,8 @@ const calendarData = [
     title: "December 17th",
     image: cookie3,
     unlockDate: "2025-12-17",
-    giftMessage: "Happy December 17th! On the topic of games, here's some Christmas trvia for you!",
-    giftImage: kissImg
+    giftMessage: "Happy December 17th! On the topic of games, here's some Christmas trvia for you!\n I have some options for you but we must do it together: 1. https://triviamaker.com/game-preview/game/TR20251201176458741510271-Christmas-Event-Answer-battle-quiz \n 2. https://triviamaker.com/game-preview/game/TR20251201176458741510271-Christmas-Event-Answer-battle-quiz",
+    giftImage: quiz
   },
   {
     id: 18,
@@ -175,7 +178,7 @@ const calendarData = [
     image: cookie2,
     unlockDate: "2025-12-18",
     giftMessage: "Happy December 18th! Since you're so sweet, you deserve something just as sweet! Either I doordash you or I pay for something you get, your choice.",
-    giftImage: kissImg
+    giftImage: food
   },
   {
     id: 19,
@@ -190,8 +193,8 @@ const calendarData = [
     title: "December 20th",
     image: cookie7,
     unlockDate: "2025-12-20",
-    giftMessage: "Happy December 20th! Are you naughty or nice? Let's find out with some quizzes I found.",
-    giftImage: kissImg
+    giftMessage: "Happy December 20th! Are you naughty or nice? Let's find out with some quizzes I found. 1. https://www.buzzfeed.com/benhenry/naughty-or-nice \n 2. https://ricepuritytest.com/ ",
+    giftImage: non
   },
   {
     id: 21,

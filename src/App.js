@@ -169,7 +169,7 @@ const calendarData = [
     title: "December 17th",
     image: cookie3,
     unlockDate: "2025-12-17",
-    giftMessage: "Happy December 17th! On the topic of games, here's some Christmas trvia for you!\n I have some options for you but we must do it together: 1. https://triviamaker.com/game-preview/game/TR20251201176458741510271-Christmas-Event-Answer-battle-quiz \n 2. https://triviamaker.com/game-preview/game/TR20251201176458741510271-Christmas-Event-Answer-battle-quiz",
+    giftMessage: "Happy December 17th! On the topic of games, here's some Christmas trivia for you!\n I have some options for you but we must do it together: 1. https://triviamaker.com/game-preview/game/TR20251201176458741510271-Christmas-Event-Answer-battle-quiz \n 2. https://parade.com/943457/parade/christmas-trivia/",
     giftImage: quiz
   },
   {

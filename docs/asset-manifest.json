@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/adventCalendar1/static/css/main.1532ec51.css",
-    "main.js": "/adventCalendar1/static/js/main.124d66b4.js",
+    "main.js": "/adventCalendar1/static/js/main.f1e71b06.js",
     "static/js/453.8577a608.chunk.js": "/adventCalendar1/static/js/453.8577a608.chunk.js",
     "static/media/candy.png": "/adventCalendar1/static/media/candy.a79eebcf8309d9510201.png",
     "static/media/lights.png": "/adventCalendar1/static/media/lights.0cc8b05580d858e0b8d8.png",
@@ -17,6 +17,7 @@
     "static/media/christmasBackground.jpg": "/adventCalendar1/static/media/christmasBackground.23d74a3b8f691598cd96.jpg",
     "static/media/finalCookie.png": "/adventCalendar1/static/media/finalCookie.4775375e61d809a9083d.png",
     "static/media/non.png": "/adventCalendar1/static/media/non.2a3695650c28a0d455dc.png",
+    "static/media/pjs.jpg": "/adventCalendar1/static/media/pjs.dd602ca8ff2c154f84e7.jpg",
     "static/media/cookie11.png": "/adventCalendar1/static/media/cookie11.ce01eadd1c3c5a4807de.png",
     "static/media/cookie9.png": "/adventCalendar1/static/media/cookie9.6b1f0eaa0b9219b093f9.png",
     "static/media/hotChocolate.png": "/adventCalendar1/static/media/hotChocolate.7a7f72e95a591eb91e2a.png",
@@ -30,6 +31,7 @@
     "static/media/cookie6.png": "/adventCalendar1/static/media/cookie6.d48e19f61ccc2ccfb44d.png",
     "static/media/movieImg.jpg": "/adventCalendar1/static/media/movieImg.8d77de04de9f44131d56.jpg",
     "static/media/cookie3.png": "/adventCalendar1/static/media/cookie3.1e2784bb2d71bd648f1a.png",
+    "static/media/escape.jpg": "/adventCalendar1/static/media/escape.baba51b3c3c25fe25f76.jpg",
     "static/media/cookie15.png": "/adventCalendar1/static/media/cookie15.99b932ee1f7253fb01a8.png",
     "static/media/cookie14.png": "/adventCalendar1/static/media/cookie14.c7631f2ed40d8f451769.png",
     "static/media/cookie5.png": "/adventCalendar1/static/media/cookie5.5cf967222ba3d6a14523.png",
@@ -39,11 +41,11 @@
     "static/media/pickleball.png": "/adventCalendar1/static/media/pickleball.30f2aa532d2c14f36701.png",
     "index.html": "/adventCalendar1/index.html",
     "main.1532ec51.css.map": "/adventCalendar1/static/css/main.1532ec51.css.map",
-    "main.124d66b4.js.map": "/adventCalendar1/static/js/main.124d66b4.js.map",
+    "main.f1e71b06.js.map": "/adventCalendar1/static/js/main.f1e71b06.js.map",
     "453.8577a608.chunk.js.map": "/adventCalendar1/static/js/453.8577a608.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1532ec51.css",
-    "static/js/main.124d66b4.js"
+    "static/js/main.f1e71b06.js"
   ]
 }

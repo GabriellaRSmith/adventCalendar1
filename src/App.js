@@ -34,6 +34,8 @@ import letter from './assets/letter.png'
 import quiz from './assets/quiz.jpg'
 import food from './assets/food.png'
 import non from './assets/non.png'
+import pjs from './assets/pjs.jpg'
+import escapeR from './assets/escape.jpg'
 
 const calendarData = [
   {
@@ -201,16 +203,16 @@ const calendarData = [
     title: "December 21st",
     image: cookie4,
     unlockDate: "2025-12-21",
-    giftMessage: "Happy December 21st! I miss you a lot, so here's a video from me to you. Send me a video of you too!",
-    giftImage: kissImg
+    giftMessage: "Happy December 21st! Let's wear our matching christmas pjs somehow today! Love you baby!",
+    giftImage: pjs
   },
   {
     id: 22,
     title: "December 22nd",
     image: cookie6,
     unlockDate: "2025-12-22",
-    giftMessage: "Happy December 22nd! Let's wear our matching christmas pjs somehow today! Love you baby!",
-    giftImage: kissImg
+    giftMessage: "Happy December 22nd! I miss you a lot, so here's a video from me to you. Send me a video of you too!",
+    giftImage: pjs
   },
   {
     id: 23,
@@ -218,7 +220,7 @@ const calendarData = [
     image: cookie13,
     unlockDate: "2025-12-23",
     giftMessage: "Happy December 23rd! Happy Christmas Eve Eve! Let's play a game, can you escape?",
-    giftImage: kissImg
+    giftImage: escapeR
   },
   {
     id: 24,

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/adventCalendar1/static/css/main.1532ec51.css",
-    "main.js": "/adventCalendar1/static/js/main.f1e71b06.js",
+    "main.js": "/adventCalendar1/static/js/main.489b12b1.js",
     "static/js/453.8577a608.chunk.js": "/adventCalendar1/static/js/453.8577a608.chunk.js",
     "static/media/candy.png": "/adventCalendar1/static/media/candy.a79eebcf8309d9510201.png",
     "static/media/lights.png": "/adventCalendar1/static/media/lights.0cc8b05580d858e0b8d8.png",
@@ -34,6 +34,7 @@
     "static/media/escape.jpg": "/adventCalendar1/static/media/escape.baba51b3c3c25fe25f76.jpg",
     "static/media/cookie15.png": "/adventCalendar1/static/media/cookie15.99b932ee1f7253fb01a8.png",
     "static/media/cookie14.png": "/adventCalendar1/static/media/cookie14.c7631f2ed40d8f451769.png",
+    "static/media/video.jpg": "/adventCalendar1/static/media/video.ea75c4ae2a9472bed307.jpg",
     "static/media/cookie5.png": "/adventCalendar1/static/media/cookie5.5cf967222ba3d6a14523.png",
     "static/media/cookie2.png": "/adventCalendar1/static/media/cookie2.03a53fef30d5ecc8102b.png",
     "static/media/quiz.jpg": "/adventCalendar1/static/media/quiz.a73b0e75964415447438.jpg",
@@ -41,11 +42,11 @@
     "static/media/pickleball.png": "/adventCalendar1/static/media/pickleball.30f2aa532d2c14f36701.png",
     "index.html": "/adventCalendar1/index.html",
     "main.1532ec51.css.map": "/adventCalendar1/static/css/main.1532ec51.css.map",
-    "main.f1e71b06.js.map": "/adventCalendar1/static/js/main.f1e71b06.js.map",
+    "main.489b12b1.js.map": "/adventCalendar1/static/js/main.489b12b1.js.map",
     "453.8577a608.chunk.js.map": "/adventCalendar1/static/js/453.8577a608.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1532ec51.css",
-    "static/js/main.f1e71b06.js"
+    "static/js/main.489b12b1.js"
   ]
 }

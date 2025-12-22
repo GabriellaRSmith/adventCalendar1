@@ -36,6 +36,7 @@ import food from './assets/food.png'
 import non from './assets/non.png'
 import pjs from './assets/pjs.jpg'
 import escapeR from './assets/escape.jpg'
+import vid from './assets/video.jpg'
 
 const calendarData = [
   {
@@ -211,8 +212,8 @@ const calendarData = [
     title: "December 22nd",
     image: cookie6,
     unlockDate: "2025-12-22",
-    giftMessage: "Happy December 22nd! I miss you a lot, so here's a video from me to you. Send me a video of you too!",
-    giftImage: pjs
+    giftMessage: "Happy December 22nd! I miss you a lot, so here's a video from me to you. Send me a video of you too! \n https://youtu.be/9JcM82lgLlk",
+    giftImage: vid
   },
   {
     id: 23,

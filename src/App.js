@@ -37,6 +37,7 @@ import non from './assets/non.png'
 import pjs from './assets/pjs.jpg'
 import escapeR from './assets/escape.jpg'
 import vid from './assets/video.jpg'
+import laugh from './assets/ho.jpg'
 
 const calendarData = [
   {
@@ -220,23 +221,23 @@ const calendarData = [
     title: "December 23th",
     image: cookie13,
     unlockDate: "2025-12-23",
-    giftMessage: "Happy December 23rd! Happy Christmas Eve Eve! Let's play a game, can you escape?",
-    giftImage: escapeR
+    giftMessage: "Happy December 23rd! Happy Christmas Eve Eve! We're going to do a Christmas mad lib. Must do together!",
+    giftImage: laugh
   },
   {
     id: 24,
     title: "December 24th",
     image: cookie9,
     unlockDate: "2025-12-24",
-    giftMessage: "Happy December 24th! Merry Christmas Eve! ???",
-    giftImage: kissImg
+    giftMessage: "Happy December 24th! Merry Christmas Eve! Let's play a game, can you escape?",
+    giftImage: escapeR
   },
   {
     id: 25,
     title: "Christmas!!",
     image: finalCookie,
     unlockDate: "2025-12-25",
-    giftMessage: "Merry Christmas Robert! I hope you have a very merry day and here's a link to you Christmas poem.",
+    giftMessage: "Merry Christmas Robert! I hope you have a very merry day and here's a link to your Christmas poem.",
     giftImage: kissImg
   }
 ];

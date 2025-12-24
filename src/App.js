@@ -229,7 +229,7 @@ const calendarData = [
     title: "December 24th",
     image: cookie9,
     unlockDate: "2025-12-24",
-    giftMessage: "Happy December 24th! Merry Christmas Eve! Let's play a game, can you escape?",
+    giftMessage: "Happy December 24th! Merry Christmas Eve! Let's play a game, can you escape? Link: https://forms.gle/21cJdkVwBtoApq9FA",
     giftImage: escapeR
   },
   {

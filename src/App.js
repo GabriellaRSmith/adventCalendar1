@@ -38,6 +38,7 @@ import pjs from './assets/pjs.jpg'
 import escapeR from './assets/escape.jpg'
 import vid from './assets/video.jpg'
 import laugh from './assets/ho.jpg'
+import christmas from './assets/christmas.png'
 
 const calendarData = [
   {
@@ -237,8 +238,8 @@ const calendarData = [
     title: "Christmas!!",
     image: finalCookie,
     unlockDate: "2025-12-25",
-    giftMessage: "Merry Christmas Robert! I hope you have a very merry day and here's a link to your Christmas poem.",
-    giftImage: kissImg
+    giftMessage: "Merry Christmas Robert! I hope you have a very merry day and here's a link to your Christmas story. https://drive.google.com/file/d/1xRXhFvnEpIvdsOt_2OugHAnP2csHEp8b/view?usp=sharing",
+    giftImage: christmas
   }
 ];
 
